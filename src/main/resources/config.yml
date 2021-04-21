@@ -1,0 +1,10 @@
+# BetterStop plugin config
+
+# Placeholders
+# %message% - the message
+# %player% - the player or the console
+
+messages:
+  defaultKickMessage: 'Server closed by an admin'
+  normal: '&cServer closed: %message%'
+  admin: '&aServer closed by %player% with message:\n&c%message%'
