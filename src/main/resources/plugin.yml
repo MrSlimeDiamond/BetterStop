@@ -1,0 +1,10 @@
+name: BetterStop
+version: ${project.version}
+main: me.slimediamond.betterstop.Betterstop
+api-version: 1.16
+authors: [ SlimeDiamond ]
+description: A better stop command
+commands:
+  stop:
+    description: stop the server
+    usage: /stop <optional message>
