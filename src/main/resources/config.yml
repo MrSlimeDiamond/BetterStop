@@ -5,6 +5,6 @@
 # %player% - the player or the console
 
 messages:
-  defaultKickMessage: 'Server closed by an admin'
-  normal: '&cServer closed: %message%'
-  admin: '&aServer closed by %player% with message:\n&c%message%'
+  defaultKickMessage: 'Server closed by an admin' # if there is no message given
+  normal: '&cServer closed: %message%' # normal user
+  admin: '&aServer closed by %player% with message:\n&c%message%' # with the permission betterstop.see
