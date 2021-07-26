@@ -1,4 +1,4 @@
 # BetterStop
 Stopping your Minecraft server, with style
 
-https://github.com/MrSlimeDiamond/BetterStop.git
+https://www.spigotmc.org/resources/betterstop.91550/
